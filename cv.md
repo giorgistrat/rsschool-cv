@@ -22,3 +22,5 @@
 ## 6. I have built a few small sites u can see them on my Github too. i've been studying a Wordpress Development and during this course we assembled 1 website with PHP functions with the custom Post types.
 
 ## 7. Nowadays i am studying in **Georgian Technical University** on computer science. i have passed several courses on udemy and have sertificate for succesfully finished wordpress development course. Aproximately 6 month ago i purchased Web development course on udemy and this course was my main motivation to continue learning Web Development.
+
+## 8. I've been studying english in university. I have gone trough B1 and B2.
