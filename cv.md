@@ -16,3 +16,5 @@
     6. PYTHON
     7. GIT
     8. WORDPRESS
+
+## 5. I dont have many code examples, but i have some mini-projects o my github so u can see them *https://github.com/giorgistrat*
