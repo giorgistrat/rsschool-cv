@@ -18,3 +18,5 @@
     8. WORDPRESS
 
 ## 5. I dont have many code examples, but i have some mini-projects o my github so u can see them *https://github.com/giorgistrat*
+
+## 6. I have built a few small sites u can see them on my Github too. i've been studying a Wordpress Development and during this course we assembled 1 website with PHP functions with the custom Post types.
