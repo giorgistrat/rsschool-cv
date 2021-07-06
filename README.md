@@ -1,1 +1,1 @@
-# rsschool-cv
+https://giorgistrat.github.io/rsschool-cv/cv
